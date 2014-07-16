@@ -21,13 +21,13 @@ php composer.phar require leodido/unoconv "0.6"
 The binary will be located at:
 
 ```
-vendor/leodido/wunconv/bin/unconv
+vendor/leodido/unoconv/bin/unconv
 ```
 
 Also a symlink will be created in your configured `bin/` folder, e.g:
 
 ```
-vendor/bin/unconv
+vendor/bin/unoconv
 ```
 
 Enjoy.
