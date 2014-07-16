@@ -1,0 +1,20 @@
+{
+    "name": "raptors/unoconv",
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Leo Di Donato",
+            "email": "leodidonato@gmail.com"
+        },
+        {
+            "name": "Lorenzo Fontana",
+            "email": "fontanalorenzo@me.com"
+        }
+    ],
+    "bin": [
+        "bin/unoconv"
+    ],
+    "require": {
+    }
+}

@@ -1,0 +1,13 @@
+# Application
+composer.lock
+composer.phar
+vendor/
+
+# IDEs
+.idea/
+.settings/
+.project/
+.buildpath/
+
+# Miscellaneous
+.DS_Store
