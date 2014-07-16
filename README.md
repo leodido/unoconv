@@ -8,11 +8,11 @@ Docs about **unconv** can be found [here](https://github.com/dagwieers/unoconv).
 Installation
 ------------
  
-This package can be found on packagist and installed with [composer](https://getcomposer.org/).
+This package, named `leodido/unoconv`, can be found on packagist and installed with [composer](https://getcomposer.org/).
 
 _Note: the version of this package is equal to the version (i.e., git tag) of unoconv._
 
-Require the package  with:
+Require the package with:
  
 ```
 php composer.phar require leodido/unoconv "0.6"

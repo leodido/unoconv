@@ -1,7 +1,6 @@
 {
-    "name": "raptors/unoconv",
+    "name": "leodido/unoconv",
     "license": "GPL-2.0",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Leo Di Donato",
